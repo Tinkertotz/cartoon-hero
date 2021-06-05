@@ -94,3 +94,8 @@ span{
 	font-style: italic;
 	margin-top: 0;
 }
+
+span:hover{
+	color: #0D987D;
+	background-color: transparent;
+}
